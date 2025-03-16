@@ -1,0 +1,8 @@
+langgraph
+fsspec
+langchain
+
+# langchain-groq
+langchain_openai
+
+chroma
