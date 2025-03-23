@@ -1,2 +1,4 @@
 doctor/config.py
 /.zed/
+/.ropeproject/
+/*/__pycache__/
